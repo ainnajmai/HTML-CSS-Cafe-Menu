@@ -3,7 +3,7 @@
 CSS tells the browser how to display your webpage.  
 Using CSS, you can set the color, font, size, and other aspects of HTML elements.  
 
-In this project, I am learning CSS by designing a menu page for a cafe webpage.  
+In this project, I am learning CSS by designing a menu page for a cafe webpage.
 
 ## Preview  
 ![Cafe Menu](https://drive.google.com/uc?id=1mmo5s2DdGPyp41WukrLUV1jcMv3aCReO)  
@@ -15,7 +15,11 @@ In this project, I am learning CSS by designing a menu page for a cafe webpage.
 
 ## Technologies Used  
 - HTML  
-- CSS  
+- CSS
+
+## Source  
+This project is based on the **freeCodeCamp** course.  
+Check it out here: [freeCodeCamp](https://www.freecodecamp.org/)  
 
 ## How to Use  
 1. Clone this repository:  
